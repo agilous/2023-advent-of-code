@@ -5,8 +5,9 @@ other Ruby based submissions.
 
 **Current Benchmarks**
 ```
-       user     system      total        real
+       user       system     total    real
 day01  0.078802   0.000582   0.079384 (  0.084521)
+day02  0.001070   0.000084   0.001154 (  0.001927)
 ```
 
 ## Requirements
